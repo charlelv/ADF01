@@ -1,0 +1,9 @@
+{
+	"name": "ADF01-lc",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3bd7d94a-c7f8-4801-bc5c-8e4bddac049a",
+		"tenantId": "130cd436-c2c6-4945-878a-894dfe4f1ed0"
+	}
+}
